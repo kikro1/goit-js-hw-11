@@ -4,7 +4,7 @@ import 'izitoast/dist/css/iziToast.min.css';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-import { getPhotoByKeyword } from './js/pixabay-api.js';
+import { getPhotoByKeyword } from './';
 import { loadGallery } from './js/render-functions.js';
 
 const refs = {
